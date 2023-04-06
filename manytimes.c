@@ -1,3 +1,4 @@
+// source: Ruijie Fang
 extern int nd();
 extern void __VERIFIER_error() __attribute__((noreturn));
 void assert (int cond) { if (!cond) __VERIFIER_error (); }
